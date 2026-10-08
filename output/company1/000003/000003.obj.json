@@ -1,0 +1,55 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "42-583-2795",
+  "taxFormId" : "1189651",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0816206",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Kshlerin, Maggio and Cole"
+    },
+    "address" : {
+      "line1" : "96915 Crooks Path",
+      "city" : "Kimberlybury",
+      "region" : "NH",
+      "postalCode" : "55820",
+      "unitType" : "Apt",
+      "unitNumber" : "719"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jessie.walsh@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-87-3562",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Warner",
+      "middle" : "Nanette",
+      "last" : "O'Hara"
+    },
+    "businessName" : {
+      "name1" : "Goodwin-Kuphal"
+    },
+    "address" : {
+      "line1" : "940 Cremin Port",
+      "city" : "Monicaview",
+      "region" : "AZ",
+      "postalCode" : "81455",
+      "unitType" : "Apt",
+      "unitNumber" : "736"
+    },
+    "email" : "terrence.hoppe@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "671-94075-2",
+  "generalContributions" : 200,
+  "rolloverContributions" : 300,
+  "section128Contributions" : 400,
+  "otherContributions" : 500,
+  "basis" : 600,
+  "fairMarketValue" : 700
+}

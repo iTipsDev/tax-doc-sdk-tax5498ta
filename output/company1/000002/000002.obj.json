@@ -1,0 +1,55 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "39-240-0495",
+  "taxFormId" : "9683209",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0816206",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Kshlerin, Maggio and Cole"
+    },
+    "address" : {
+      "line1" : "96915 Crooks Path",
+      "city" : "Kimberlybury",
+      "region" : "NH",
+      "postalCode" : "55820",
+      "unitType" : "Apt",
+      "unitNumber" : "719"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jessie.walsh@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-36-1674",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Brian",
+      "middle" : "Marx",
+      "last" : "Crooks"
+    },
+    "businessName" : {
+      "name1" : "Breitenberg Inc"
+    },
+    "address" : {
+      "line1" : "79051 Walker Estate",
+      "city" : "Smithamfurt",
+      "region" : "ME",
+      "postalCode" : "20682",
+      "unitType" : "Apt",
+      "unitNumber" : "690"
+    },
+    "email" : "hope.mayert@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "075-93139-0",
+  "generalContributions" : 200,
+  "rolloverContributions" : 300,
+  "section128Contributions" : 400,
+  "otherContributions" : 500,
+  "basis" : 600,
+  "fairMarketValue" : 700
+}

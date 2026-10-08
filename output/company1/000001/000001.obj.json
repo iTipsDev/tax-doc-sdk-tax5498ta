@@ -1,0 +1,55 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "84-904-1962",
+  "taxFormId" : "7327607",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0816206",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Kshlerin, Maggio and Cole"
+    },
+    "address" : {
+      "line1" : "96915 Crooks Path",
+      "city" : "Kimberlybury",
+      "region" : "NH",
+      "postalCode" : "55820",
+      "unitType" : "Apt",
+      "unitNumber" : "719"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jessie.walsh@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-58-7323",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Kandis",
+      "middle" : "Miriam",
+      "last" : "Ferry"
+    },
+    "businessName" : {
+      "name1" : "Pacocha Group"
+    },
+    "address" : {
+      "line1" : "2868 Amalia Cliff",
+      "city" : "Carrollton",
+      "region" : "NH",
+      "postalCode" : "13168",
+      "unitType" : "Apt",
+      "unitNumber" : "171"
+    },
+    "email" : "wen.herzog@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "004-93611-0",
+  "generalContributions" : 200,
+  "rolloverContributions" : 300,
+  "section128Contributions" : 400,
+  "otherContributions" : 500,
+  "basis" : 600,
+  "fairMarketValue" : 700
+}
